@@ -1,4 +1,4 @@
-service: aws-java-simple-dfmerchan
+service: aws-java-simple-dopss
 
 frameworkVersion: ">=2.0.0"
 
